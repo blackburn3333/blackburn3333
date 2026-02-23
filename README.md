@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h3 align="center">✨ Code is the digital manifestation of human intent 🧠<br>🛡️ I strive to ensure that intent is secure, intelligent, and efficient 🚀</h3>
+
+###
 <!--
 **blackburn3333/blackburn3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
