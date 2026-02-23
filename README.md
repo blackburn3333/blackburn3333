@@ -1,4 +1,4 @@
-## Hi there 👋
+<h4 align="center"> Hi there 👋</h4>
 
 <h3 align="center">✨ Code is the digital manifestation of human intent 🧠<br>🛡️ I strive to ensure that intent is secure, intelligent, and efficient 🚀</h3>
 
